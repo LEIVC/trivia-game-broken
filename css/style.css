@@ -1,0 +1,53 @@
+
+body {
+    background-color:rgb(51, 172, 228);
+    color: white;
+  }
+  
+
+.jumbotron {
+    box-sizing: border-box;
+    height: 600px;
+    background: linear-gradient(rgb(51, 172, 228),rgb(23, 37, 240))
+  }
+  
+  .main-start-button {
+    margin-left: auto;
+    background-color: rgb(76, 0, 255) 
+    margin-top: 150px;
+    max-width: 400px;
+    margin-right: auto;
+  }
+  
+  .timer {
+    margin-top: 40px;
+  }
+  
+  .answer:hover {
+    background: pink;
+  }
+  
+  .answer {
+    padding-top: 7px;
+    height: 45px;
+    color: black;
+    padding-left: 14px;
+    background-color: white;
+    border-radius: 4px;
+  }
+  
+  .img-wrong {
+    margin-top: 25px;
+  }
+  
+  .first-answer {
+    margin-top: 25px;
+  }
+  
+  .reset-button {
+    margin-top: 25px;
+  }
+  
+  .summary-correct {
+    margin-top: 25px;
+  }
